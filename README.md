@@ -18,6 +18,6 @@
  <div>
   <a href="https://github.com/EduardoGuidugli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoGuidugli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <a href="https://ibb.co/pxZ6ZRg"><img src="https://i.ibb.co/pxZ6ZRg/Whats-App-Image-2021-07-30-at-13-34-00.jpg" alt="Whats-App-Image-2021-07-30-at-13-34-00" border="0"></a> 
+  
   
 

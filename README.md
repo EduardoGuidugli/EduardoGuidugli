@@ -1,6 +1,6 @@
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://tncad.blogspot.com/2020/10/047-mongodb-to-analytics-part-3.html">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/talend_logo_icon_170648.png">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

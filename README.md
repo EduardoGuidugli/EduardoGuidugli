@@ -1,11 +1,11 @@
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Edu-Talend" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/talend_logo_icon_170648.png">
-  <img align="center" alt="Edu-Dremio" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/dremio_logo_icon_168234.png">
-  <img align="center" alt="Edu-databricks" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/databricks_logo_icon_170295.png">
-  <img align="center" alt="Edu-sql" height="30" width="40" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png">
-  <img align="center" alt="Edu-pwb" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_powerbi_logo_icon_170953.png">
-  <img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Edu-Talend" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/talend_logo_icon_170648.png">
+  <img align="center" alt="Edu-Dremio" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/dremio_logo_icon_168234.png">
+  <img align="center" alt="Edu-databricks" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/databricks_logo_icon_170295.png">
+  <img align="center" alt="Edu-sql" height="40" width="40" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png">
+  <img align="center" alt="Edu-pwb" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_powerbi_logo_icon_170953.png">
+  <img align="center" alt="Edu-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
   ##
  
